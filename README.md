@@ -6,14 +6,11 @@
 <br>2주차 : Java 기초 다지기 1
 <br>3주차 : Java 기초 다지기 2
 <br>4주차 : 객체지향 프로그래밍 시작하기
-<br>5주차 : Spring 시작하기
-<br>6주차 : Spring MVC Part 1
-<br>7주차 : Spring MVC Part 2
-<br>8주차 : Spring MVC Part 3
+
 
 추가강의
 Java Part - 객체지향 프로그래밍 설계하기
-Spring Part - Spring DI 와 AOP
+
 
 <h4>선택강의는 진도율에 적용되지 않는 강의지만 수강생분들이 함께 학습하시면 좋을 내용들이 포함되어 있습니다.</h4>
 <h4>수강생분들의 학습 스케줄을 잘 만드셔서 선택강의까지 모두 수강하시면 Java&Spring에 대한 많은 것을 얻어가실 수 있습니다. </h4>
